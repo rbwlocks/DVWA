@@ -1,5 +1,12 @@
 # Folk for Inspector Code Scan
 
+## Initial Scan
+
+Findings
+Critical (15)
+High (430)
+Medium (0)
+
 # DAMN VULNERABLE WEB APPLICATION
 
 Damn Vulnerable Web Application (DVWA) is a PHP/MariaDB web application that is damn vulnerable. Its main goal is to be an aid for security professionals to test their skills and tools in a legal environment, help web developers better understand the processes of securing web applications and to aid both students & teachers to learn about web application security in a controlled class room environment.
