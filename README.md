@@ -1,4 +1,4 @@
-# Folk for Inspector Code Scan.
+# Folk for Inspector Code Scan
 
 ## Initial Scan
 
